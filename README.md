@@ -11,6 +11,8 @@ Installierte Parser prüfen beim Start über dieses Repository, ob eine neuere V
 2. Unter **Assets** die Datei **`AlphaTermSLLParser-<Version>.zip`** herunterladen (empfohlen).
    Alternativ direkt das MSI `AlphaTermSLLParser-<Version>.msi` – das wird von Browsern aber häufiger
    blockiert (siehe unten).
+   Die Einträge **„Source code (zip)“** und **„Source code (tar.gz)“** fügt GitHub automatisch hinzu.
+   Sie enthalten nur diese Beschreibung, nicht das Programm.
 3. ZIP entpacken (Rechtsklick → **Alle extrahieren…**), dann das enthaltene MSI per Doppelklick starten
    und dem Assistenten folgen.
    Vorgegebener Zielordner: `C:\Program Files (x86)\Scanvest\AlphaTerm SLL Parser` (änderbar).
