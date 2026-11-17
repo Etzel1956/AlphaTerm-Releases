@@ -40,7 +40,7 @@ Die automatische Update-Prüfung gibt es ab Version **2.1.3.6**. Ältere Version
 ## Einstellungen
 
 Einstellungen, F-Tasten und RCI-/RCO-Beschriftungen liegen im Benutzerordner unter
-`%LOCALAPPDATA%\<Firma>\<Produkt>` (z. B. `sllp_config.xml`, `FKeys.xml`). Benannte Konfigurationen
+`%LOCALAPPDATA%\Scanvest Deutschland GmbH\SVTerm` (z. B. `sllp_config.xml`, `FKeys.xml`). Benannte Konfigurationen
 (Menü **Konfiguration → Speichern unter…**) werden standardmäßig im Unterordner `Konfigurationen` abgelegt.
 
 ## Hinweis
