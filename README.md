@@ -8,10 +8,24 @@ Installierte Parser prüfen beim Start über dieses Repository, ob eine neuere V
 
 1. Die neueste Version öffnen: **[Releases → Latest](https://github.com/Etzel1956/AlphaTerm-Releases/releases/latest)**
    (ein GitHub-Konto ist nicht nötig).
-2. Unter **Assets** die Datei `AlphaTermSLLParser-<Version>.msi` herunterladen.
-3. Das MSI per Doppelklick starten und dem Assistenten folgen.
+2. Unter **Assets** die Datei **`AlphaTermSLLParser-<Version>.zip`** herunterladen (empfohlen).
+   Alternativ direkt das MSI `AlphaTermSLLParser-<Version>.msi` – das wird von Browsern aber häufiger
+   blockiert (siehe unten).
+3. ZIP entpacken (Rechtsklick → **Alle extrahieren…**), dann das enthaltene MSI per Doppelklick starten
+   und dem Assistenten folgen.
    Vorgegebener Zielordner: `C:\Program Files (x86)\Scanvest\AlphaTerm SLL Parser` (änderbar).
 4. Starten über das Startmenü oder die Desktop-Verknüpfung **„AlphaTerm SLL Parser“**.
+
+### Download vom Browser blockiert?
+
+Das Installationspaket ist (noch) nicht digital signiert und wird selten heruntergeladen. Deshalb blockieren
+Browser den Download manchmal („wird nicht häufig heruntergeladen“, „könnte Ihr Gerät gefährden“).
+
+- **Microsoft Edge:** Downloads öffnen (**Strg+J**) → beim blockierten Eintrag **„…“ → „Behalten“** →
+  **„Mehr anzeigen“ → „Trotzdem behalten“**.
+- **Google Chrome:** Downloads öffnen (**Strg+J**) → **„Trotzdem herunterladen“**.
+
+Das ZIP ist davon seltener betroffen als das MSI.
 
 ### Mögliche Hinweise bei der Installation
 
